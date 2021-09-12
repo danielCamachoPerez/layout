@@ -8,3 +8,5 @@
 
 
 ![Getting Started](docs/img/screen_1.png)
+![Getting Started](docs/img/screen_2.png)
+![Getting Started](docs/img/screen_3.png)
